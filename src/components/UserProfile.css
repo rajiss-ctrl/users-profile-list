@@ -1,0 +1,29 @@
+
+
+.card{
+    background: #fafafc;
+    width: 400px;
+    margin: 15px 10px;
+    height: 450px;
+    padding: 10px 30px;
+}
+.card h1{
+    font-size: 45px;
+}
+.card h3{
+    font-weight: normal;
+}
+.card h3 strong{
+    color: #6262a2;
+}
+
+.card .general-info{
+    margin-top: 70px;
+}
+
+.dob,.email,.phone,.address,.web{
+    display: flex;
+    justify-content: space-between;
+}
+
+
